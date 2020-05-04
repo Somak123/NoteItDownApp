@@ -1,2 +1,0 @@
-# NoteItDownApp
-Created with CodeSandbox
